@@ -1,0 +1,1 @@
+g++ main.cpp InputStream.cpp InputStream.h Scanner.cpp Scanner.h Token.cpp Token.h -o myprog
